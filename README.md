@@ -29,3 +29,5 @@ You must at least fill the following entries:
 The Map/Reduce and the DFS masters are colocated by default (i.e. run on the same host).
 
 A SOCKS proxy can be configured if you cannot access the Map/Reduce location directly because your machine is not directly connected to the location. See section "How to use SOCKS proxies" for more details. 
+
+Ref:http://wiki.apache.org/hadoop/EclipsePlugIn
